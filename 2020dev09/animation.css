@@ -1,0 +1,32 @@
+﻿.bar .p70{
+            animation: progressBar70 2s ease-in-out;
+            animation-fill-mode:both;
+        }
+        @keyframes progressBar70 {
+          0% { width: 0; }
+          100% { width: 70%; }
+        }
+        .bar .p50{
+            animation: progressBar50 2s ease-in-out;
+            animation-fill-mode:both;
+        }
+        @keyframes progressBar50 {
+          0% { width: 0; }
+          100% { width: 50%; }
+        }
+        .bar .p20{
+            animation: progressBar20 2s ease-in-out;
+            animation-fill-mode:both;
+        }
+        @keyframes progressBar20 {
+          0% { width: 0; }
+          100% { width: 20%; }
+        }
+        .bar .p60{
+            animation: progressBar60 2s ease-in-out;
+            animation-fill-mode:both;
+        }
+        @keyframes progressBar60 {
+          0% { width: 0; }
+          100% { width: 60%; }
+        }        
