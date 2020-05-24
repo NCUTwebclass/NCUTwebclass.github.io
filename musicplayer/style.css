@@ -36,6 +36,10 @@
 padding-top: 20px;
 }
 
+.btn-action>div,.btn-ctn > div{
+letter-spacing: 30px;  
+}
+
 .btn-ctn > div {
  padding: 5px;
  margin-top: 18px;
@@ -63,7 +67,8 @@ padding-top: 20px;
 
 .player-ctn{
   border-radius: 15px;
-  width: 420px;
+  min-width: 420px;
+  max-width: 90%;
   padding: 10px;
   background-color: #373737;
   margin:auto;
