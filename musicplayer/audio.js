@@ -30,7 +30,7 @@
 
   var listAudio = [
     {
-      name:"深碗計畫",
+      name:"專輯一、深碗計畫",
       file:"music/Silence.mp3",
       duration:"00:52"
     },
